@@ -4,4 +4,10 @@
 
 2. Install QGIS through conda-forge in the current environment using `conda install -c conda-forge qgis`.
 
-3. Use the notebook
+3. Use the notebook "MaptoRaster.ipynb"
+
+<center>
+
+![Map to raster tool in QGIS](maptoraster.png){width="470"}
+
+</center>
