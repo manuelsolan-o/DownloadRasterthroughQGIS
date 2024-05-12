@@ -8,6 +8,6 @@
 
 <center>
 
-![Map to raster tool in QGIS](maptoraster.png){width="470"}
+![Map to raster tool in QGIS](maptoraster.png)
 
 </center>
